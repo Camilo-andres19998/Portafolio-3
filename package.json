@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "eins-modal": "^2.2.2"
+  },
+  "name": "portafolio-3",
+  "version": "1.0.0",
+  "description": "mi-portafolio",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Camilo-andres19998/Portafolio-3.git"
+  },
+  "author": "Camilo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Camilo-andres19998/Portafolio-3/issues"
+  },
+  "homepage": "https://github.com/Camilo-andres19998/Portafolio-3#readme"
+}
